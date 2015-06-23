@@ -1,0 +1,2 @@
+clang -o todo    todo.c    -Istdlib/spaES -nobuiltininc
+clang -o todo_en todo_en.c -Istdlib/engUS -nobuiltininc
